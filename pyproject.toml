@@ -21,7 +21,7 @@ dependencies = [
     "safetensors>=0.8.0rc0",
     "spacy-pkuseg",
     "pykakasi==2.3.0",
-    "gradio==6.7.0",
+    "gradio==6.15.0",
     "pyloudnorm",
     "omegaconf"
 ]
